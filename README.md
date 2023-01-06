@@ -1,6 +1,1 @@
-"# loyaltyProgramIDS" 
-"# loyaltyProgramIDS" 
-"# loyaltyProgramIDS" 
-"# loyaltyProgramIDS" 
-"# loyaltyProgramIDS" 
-"# loyaltyProgramIDS" 
+Progetto di Ingegneria del software
